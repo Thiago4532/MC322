@@ -233,7 +233,6 @@ public class Main {
         menu.run();
     }
 
-
     private static void cadastrarCliente(Seguradora seguradora) {
         Cliente cliente = selecionarCliente();
         if (cliente == null)
